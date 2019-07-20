@@ -27,7 +27,7 @@ Your device type and the operating system that you use
 Your Service communications (e.g. in-game emotion signals which you exchange with other players)
 Broad geographic location (e.g. country or city-level location) based on your IP address
 
-Advertising ID means Google Advertising Identity (“GAID”). These are unique identifiers for mobile device that advertisers use for personalized advertising. They are consistent across all mobile applications and thus allow cross-app tracking. On Google Android, you can opt out of these ads by choosing “Opt-out of personalized ads”. Advertising IDs are non-permanent, non-personal identifiers, which are uniquely associated with your device.
+Advertising ID means Google Advertising Identity (“GAID”). These are unique identifiers for mobile device that advertisers use for personalized advertising. They are consistent across all mobile applications and thus allow cross-app tracking.
 
 Device identifier / information means device type, device model, device maker, device operating system and its language or other technical data like screen size or processor, or combination of this data available from a device for a developer for checking the device compatibility with a particular application.
 
@@ -76,8 +76,6 @@ We may contract with additional Partners or change existing Partners in the futu
 The list of our current service providers and partners is available here.
 
 We reserve the right to disclose your information (including personally identifiable information) in response to law, legal process, litigation, and/or requests from public and governmental authorities within or outside your country of residence. We may also disclose information about you if we determine that for purposes of national security, law enforcement, or other issues of public importance, the disclosure is necessary or appropriate. We may also disclose information about you if we determine that disclosure is reasonably necessary to enforce our terms and conditions or to protect our operations, users or user experience. Additionally, in the event of a reorganization, merger or sale we may transfer any and all information (including personally identifiable information) we collect to the relevant third party.
-
-For any additional questions about third-party information collection, please refer to privacy@playgendary.com
 
  
 
