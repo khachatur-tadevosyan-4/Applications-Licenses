@@ -1,5 +1,5 @@
 # KPROJECT PRIVACY POLICY
-Last updated: July 20, 2019
+Created and updated: July 20, 2019
 
 This Privacy Policy explains who we are, how we process. My name is Khachatur and I develop mobile game and apps alone. Developer name is KProject ("KProject" or "we")  a developer and publisher of games and mobile game applications that are made available via app stores including the Google Play Store. This Privacy Policy applies to personal information that we collect through our games, mobile applications and other products (“Games”, together “Services”). By using our Services, you agree to be bound by this Privacy Policy and consent to our processing of information as specified therein. We present you privacy policy as short as possible
 
@@ -120,32 +120,14 @@ The App may further ask you to allow us to post on such Third-Party Social Netwo
 Our Service does not address anyone under the age of 16 (“Children”). When we collect personal information, we do not know the age of our players. We do not knowingly collect personally identifiable information from children under 16. If you are a parent or guardian and you are aware that your Children have provided us with Personal Information, please contact us. If we become aware that we have collected Personal Information from a child under age 16 without verification of parental consent, we will take steps to remove that information from our servers.
 
 8. YOUR RIGHTS
-If you are EEA-based user you have certain rights in connection with your personal information and how we handle it. Some of these rights may be subject to some exceptions or limitations. You can exercise these rights at any time by following the instructions below or sending us relevant  requests to privacy@playgendary.com
+If you are EEA-based user you have certain rights in connection with your personal information and how we handle it. Some of these rights may be subject to some exceptions or limitations. You can exercise these rights at any time by following the instructions below or sending us relevant  requests to khachatur.td.4@gmail.com
 
-Your rights include:
-
-Right to withdraw your consent in accordance with Art. 7 para. 3 GDPR (e.g. you may withdraw your consent to show personalized ads to you, by loading Terms &Privacy from your Game settings and following instructions in section Personalized Ads Consent Withdrawal in Privacy Policy (available to EEA-based users only))
-Right to access your data in accordance with Art. 15 GDPR (e.g. you may check what data we store about you, for this purpose please load Terms &Privacy from your Game settings and follow instructions in section Request a Summary of Personal Data  in Privacy Policy (available to EEA-based users only))
-Right to correct your data in accordance with Art. 16 GDPR (e.g. you can contact us if your email address has been changed and we should replace your old email address)
-Right to have your data deleted in accordance with Art. 17 GDPR (e.g. you can contact us if you want us to delete certain data that we have stored about you, please load Terms &Privacy from your Game settings and follow instructions in section request Personal Data to be removed  in Privacy Policy (available to EEA-based users only))
-Right to restrict processing of your personal information in accordance with Art. 18 GDPR (e.g. you can contact us if you want to restrict processing)
-Right to take your data with you in accordance with Art. 20 GDPR (e.g. you can contact us to receive your data if you want to upload it to another service)
-Right to object how your data is handled in accordance with Art. 21 GDPR (e.g. you can contact us if you do not agree with any user analytics procedures as described within this privacy policy)
-Right to send complaints to the supervisory authority in accordance with Art. 77 para. 1 f GDPR (e.g. you can contact the data protection supervisory authority directly).
- 
 
 9. GENERAL
 Your information privacy and security is important to us and we always pay special attention to ensure that we process your information lawfully in accordance with one of the legal bases set out under EEA data protection laws that apply to EEA users. We have appointed data protection officer to help us ensure compliance with EEA data protection laws. We store your information for as long as needed to provide you with our services. We may store information longer, but only in a way that it cannot be tracked back to you. We operate globally and we share your information with our Partners (see the List of our current Partners here) as for the purposes described above in “How We Share Your Information” Section, which may include a transfer of your personal information outside of the European Economic Area (the “EEA”). Please check regularly for changes to our Privacy Policy.
 
 10. LEGAL BASES
 In each case where we process your information, we do so lawfully in accordance with one of the legal bases set out under EEA data protection law.
-
-The legal bases that we rely upon are the following:
-
-Contractual Necessity. This covers information that is processed by us in order to provide you with service that you have requested – and that we have agreed – to provide to you, that is to deliver and improve our services, to provide customer support, to deliver special features in our Games (such as in-app chat feature, multiplayer feature, leaderboards and other third-party social network features), to deliver content of the in-app purchase you make.
-Legitimate Interests. This covers information that is processed by us for the purposes that can be reasonably expected within the context of your use of our services to pursue our legitimate interests in order to ensure you have the best experience when playing our apps, to make sure your information is secure and to provide to you our Games free of charge or at a low cost. We pay special attention to your data protection rights making sure that your data protection rights are not overridden by our legitimate interests. We rely on our legitimate interests for data processing for analytics, tracking and fraud prevention, push-notifications, cross-promotion, and contextual advertising purposes.
-Consent. Where we ask for your consent to use your data for a particular purpose, we will make this clear at the point of collection and we will also make clear how you can withdraw your consent. We will ask for you consent before sharing any information with our advertising partners for the purposes of personalized advertising and before conducting any surveys.
-Legal Obligation. This covers information that is processed by us to comply with a legal obligation, for instance, is to maintain records for tax purposes.
  
 
 11. SECURITY
@@ -168,7 +150,7 @@ When required by law, we will retain your information for as long as we are lega
  
 
 14. CHANGES TO OUR PRIVACY POLICY
-We will occasionally update this Privacy Policy as necessary to protect our users, furnish current information, and respond to legal and technical changes. The most current version of the Privacy Policy will govern our use of your information and will be available at 
+We always occasionally update this Privacy Policy as necessary to protect our users, furnish current information, and respond to legal and technical changes. The most current version of the Privacy Policy will govern our use of your information and will be available at 
 
 For previous versions of this Privacy Policy, please contact us via khachatur.tds.4@gmail.com
 
@@ -178,4 +160,4 @@ If you have questions or concerns about this Privacy Policy, please contact us t
 if you have a concern or compliance regarding our treatment of your personal data you can contact the relevant data protection authority. You can find contact details of data protection authority at https://edpb.europa.eu/about-edpb/board/members_en.  For more information on which authority to contact, please email us here khachatur.tds.4@gmail.com.
  
 
-For information collected under this Privacy Policy, the data controller is KProject, registered at apt115, 5 Khaghagh Don St, Yerevan, Armenia
+For information collected under this Privacy Policy, the data controller is </b>KProject</b>, registered at <b>apt115, 5 Khaghagh Don St, Yerevan, Armenia</b>
