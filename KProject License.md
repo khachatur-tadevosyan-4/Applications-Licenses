@@ -152,12 +152,11 @@ When required by law, we will retain your information for as long as we are lega
 14. CHANGES TO OUR PRIVACY POLICY
 We always occasionally update this Privacy Policy as necessary to protect our users, furnish current information, and respond to legal and technical changes. The most current version of the Privacy Policy will govern our use of your information and will be available at 
 
-For previous versions of this Privacy Policy, please contact us via khachatur.tds.4@gmail.com
 
 15. CONTACT US
-If you have questions or concerns about this Privacy Policy, please contact us through one of the following ways:
+If you have questions or concerns about this Privacy Policy, please contact us with email: khachatur.tds.4@gmail.com
 
-if you have a concern or compliance regarding our treatment of your personal data you can contact the relevant data protection authority. You can find contact details of data protection authority at https://edpb.europa.eu/about-edpb/board/members_en.  For more information on which authority to contact, please email us here khachatur.tds.4@gmail.com.
+if you have a concern or compliance regarding our treatment of your personal data you can contact the relevant data protection authority. For more information on which authority to contact, please email us here khachatur.tds.4@gmail.com.
  
 
-For information collected under this Privacy Policy, the data controller is </b>KProject</b>, registered at <b>apt115, 5 Khaghagh Don St, Yerevan, Armenia</b>
+For information collected under this Privacy Policy, the data controller is <b>KProject</b>, registered at <b>apt115, 5 Khaghagh Don St, Yerevan, Armenia</b>
