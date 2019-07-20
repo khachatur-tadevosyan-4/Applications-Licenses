@@ -108,7 +108,7 @@ marketing games to a group of potential players.
 
 5. THIRD-PARTY SOCIAL NETWORKS
 5.1. Connecting to Third-Party Social Networks
-Some of our Games use third-party services such as Google Play Games Service. Such Games enable you to log in to your Third-Party Social Network account to connect our App by using the “Log in” feature in our App. You may also share the content you create within the App on Third-Party Social Networks. Please note, Third Party Social Networks are governed by their own privacy policies, terms and end-user agreements and we are not responsible for and have no control over, the sharing practices or policies of the third parties that operate those sites. For additional questions, contact us at privacy@playgendary.com.
+Some of our Games use third-party services such as Google Play Games Service. Such Games enable you to log in to your Third-Party Social Network account to connect our App by using the “Log in” feature in our App. You may also share the content you create within the App on Third-Party Social Networks. Please note, Third Party Social Networks are governed by their own privacy policies, terms and end-user agreements and we are not responsible for and have no control over, the sharing practices or policies of the third parties that operate those sites.
 
 5.2. Information We May Receive When You Connect to Third-Party Social Networks
 The information you allow us to access varies by App and is affected by the privacy settings you establish on those Third-Party Social Networks. You can control and find out more about these settings from the Third-Party Social Network in question. When you use the “Log in” feature, we may access and store some or all of the following information, as allowed by you, Third-Party Social Networks and your preferences: (i) your basic information from your public profile, such as your nickname, profile picture; (ii) login ID and/or player identifier string; (iii) list of your friends; (iv) any other information which is detailed and displayed to you in the notice which appears during the “Log in with” process. We may share your name and your game data (such as moves, Game progress and scores) with respect to the applicable App, with your friends who have also used the “Log in with” or “Connect to” feature in connection with such App or with your contacts in applicable Third-Party Social Media Network account.
@@ -155,8 +155,5 @@ We always occasionally update this Privacy Policy as necessary to protect our us
 
 15. CONTACT US
 If you have questions or concerns about this Privacy Policy, please contact us with email: khachatur.tds.4@gmail.com
-
-if you have a concern or compliance regarding our treatment of your personal data you can contact the relevant data protection authority. For more information on which authority to contact, please email us here khachatur.tds.4@gmail.com.
- 
 
 For information collected under this Privacy Policy, the data controller is <b>KProject</b>, registered at <b>apt115, 5 Khaghagh Don St, Yerevan, Armenia</b>
