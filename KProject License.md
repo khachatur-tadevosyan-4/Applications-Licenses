@@ -1,11 +1,11 @@
-# PRIVACY POLICY
-KProject  Privacy Policy
+# KPROJECT PRIVACY POLICY
 Last updated: July 20, 2019
 
-This Privacy Policy explains who we are, how we process (i.e. collect, record, organize, structure, store, adapt or alter, retrieve, consult, use, disclose by transmission, disseminate or otherwise make available, align or combinate, restrict, erase or destruct) personal information about you, and how you can exercise your privacy rights. We are KProject, a developer with name Khachatur in Armenia, with registered address at: (“KProject” or “we”),  a developer and publisher of games and mobile game applications that are made available via app stores including the Google Play Store. This Privacy Policy applies to personal information that we collect through our games, mobile applications and other products (together “Services”). By using our Services, you agree to be bound by this Privacy Policy and consent to our processing of information as specified therein.
+This Privacy Policy explains who we are, how we process. My name is Khachatur and I develop mobile game and apps alone. Developer name is KProject ("KProject" or "we")  a developer and publisher of games and mobile game applications that are made available via app stores including the Google Play Store. This Privacy Policy applies to personal information that we collect through our games, mobile applications and other products (“Games”, together “Services”). By using our Services, you agree to be bound by this Privacy Policy and consent to our processing of information as specified therein.
 
 1. INFORMATION WE COLLECT FROM YOU
-Most of the information that we collect about you comes directly from you when you play our Games or interact with third-party ads in our Games or with our ads in other publisher’s Games. In general, the information we collect about you relates to the type of device you are using, information that helps us identify your device, how you play our Games and may include information that you submit to us when you voluntarily contact us.
+-------------------------------------------------------
+In general, the information we collect about you relates to the type of device you are using, information that helps us identify your device, how you play our Games and may include information that you submit to us when you voluntarily contact us.
 
 The information that we may collect about you through the Services broadly falls into the following categories:
 
@@ -13,8 +13,8 @@ The information that we may collect about you through the Services broadly falls
 
 Certain parts of our Services may ask you to provide personal information voluntarily. For example, we will ask for certain information in order for you to submit enquiries to us, such as:
 
-your name, email address or other details, necessary to process your inquiries;
-any information you submit to our support team via email.
+x) your name, email address or other details, necessary to process your inquiries;
+x) any information you submit to our support team via email.
 The personal information that you are asked to provide and the reasons why you are asked to provide it, we will try to explain to you at the point we ask you to provide your personal information.
 
 (b) Information that we collect automatically
@@ -35,7 +35,6 @@ Some of this information may be collected through cookies as explained further u
 
 (c)  Information we obtain from third-party sources
 
-Third-Party Social Network/s. Google Play Games Service, Apple Game Center, Facebook (“Third-Party Social Network/s”). You may choose to connect to our Services via your social media account. Exactly what information we receive from your social media will depend on your social media privacy settings, but it would typically include your basic public profile information such as your username, gender, your friends playing the same Game. (See below also “Third-Party Social Networks”).
 Third party service providers. We may receive personal information about you from third-party sources. We may get your personal information for example when you installed our Game and prior to installing you have clicked an advertisement for the same Game.
 Advertising partners. From time to time, we may also receive personal information about you from other third-party sources. For example, if you clicked on an advertisement to direct you to one of our Services (such as an advert of one of our Games in other publisher’s game), we will be provided with information from which ad network and advertising campaign the install originated from (See below also “Advertising”).
 A list of our current service providers and partners is available here.
@@ -66,8 +65,8 @@ We cannot provide all services necessary for the successful operation of the Gam
 
 We may share such information to:
 
-Our analytics providers. We use third-party analytics such as TapJoy, Unity, Firebase for the purposes of delivering our services, conducting analysis, and research. The device data we share with such providers are encoded. The providers may assign a random ID to these data and they are not able to match it back to You. We can aggregate the data for benchmarking feature.
-Our cloud service providers. We store information we collect from you on servers provided by our third-party cloud service providers such as iCloud, Google Cloud Platform;
+Our analytics providers. We use third-party analytics such as Unity, Firebase for the purposes of delivering our services, conducting analysis, and research. The device data we share with such providers are encoded. The providers may assign a random ID to these data and they are not able to match it back to You. We can aggregate the data for benchmarking feature.
+Our cloud service providers. We store information we collect from you on servers provided by our third-party cloud service providers such as Google Cloud Platform;
 Our tracking and fraud prevention providers. For some of our Games we use tracking and fraud prevention providers, such as AppsFlyer, Tenjin for the purposes of measuring performance and optimizing our advertising campaigns, displaying advertisements, conducting analysis to improve our services and for fraud prevention purposes. Such providers may use APIs, and SDKs in our Games to enable them to collect and analyze user and device-related data and information, such as impressions, clicks, installs or other advertising campaign performance indicators and post-install in-app events.
 Third-party advertising partners. We have contracted with certain third-party advertising networks that assist us in delivering advertising to you that allows us to continue offering the Games for free or at low cost. 
 Advertising partner’s third-party tracking provider. We allow our advertising partners to track impressions, clicks, installs or other advertising campaign performance indicators through their tracking providers for the purposes of measuring their advertising campaign performance. They may use their own third-party tracking providers.
@@ -193,8 +192,7 @@ For previous versions of this Privacy Policy, please contact us via khachatur.td
 15. CONTACT US
 If you have questions or concerns about this Privacy Policy, please contact us through one of the following ways:
 
-if you have a concern or compliance regarding our treatment of your personal data you can contact the relevant data protection authority. You can find contact details of data protection authority at https://edpb.europa.eu/about-edpb/board/members_en.  For more information on which authority to contact, please email us here privacy@playgendary.com.
-for general information, please feel free to contact us via our contact service page: https://www.playgendary.com/contact-us/ .
+if you have a concern or compliance regarding our treatment of your personal data you can contact the relevant data protection authority. You can find contact details of data protection authority at https://edpb.europa.eu/about-edpb/board/members_en.  For more information on which authority to contact, please email us here khachatur.tds.4@gmail.com.
  
 
-For information collected under this Privacy Policy, the data controller is Playgendary GmbH, a company under laws of Germany, registered at Landshuter Allee 8-10, 80637 Munich.
+For information collected under this Privacy Policy, the data controller is KProject, registered at apt115, 5 Khaghagh Don St, Yerevan, Armenia
